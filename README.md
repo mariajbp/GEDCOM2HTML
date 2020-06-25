@@ -4,4 +4,4 @@
 - Transforms a GEDCOM file into HTML
 
 
-> by [Maria](https://github.com/mariajbp) & [Hugo](https://github.com/hchexy)
+ By [Maria](https://github.com/mariajbp) & [Hugo](https://github.com/hchexy)
