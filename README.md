@@ -1,6 +1,7 @@
 #GEDCOM2HTML
-> Flex parser and YACC grammar for the GEDCOM format
-> Transforms a GEDCOM file into HTML
+
+Flex parser and YACC grammar for the GEDCOM format
+Transforms a GEDCOM file into HTML
 
 
 Class Assement: Language Processing
