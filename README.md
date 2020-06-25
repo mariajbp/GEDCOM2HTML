@@ -4,5 +4,4 @@
 - Transforms a GEDCOM file into HTML
 
 
-> Class Assement: Language Processing
 > made by [Maria](https://github.com/mariajbp) & [Hugo](https://github.com/hchexy)
